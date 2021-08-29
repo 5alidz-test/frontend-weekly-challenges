@@ -1,0 +1,17 @@
+{
+  "name": "frontend-weekly-challenges",
+  "version": "1.0.0",
+  "private": true,
+  "description": "frontend weekly challenges for (HTML, CSS, JS) FB group",
+  "main": "index.js",
+  "scripts": {
+    "create:challenge": "node ./bin/cli.js challenge",
+    "create:solution": "node ./bin/cli.js solution"
+  },
+  "keywords": [],
+  "author": "5alidz",
+  "license": "MIT",
+  "dependencies": {
+    "prompts": "^2.4.1"
+  }
+}
