@@ -9,6 +9,8 @@ Big thanks to the admins:
 - one
 - two
 
+test 1 2 3
+
 ## Why do the challenges
 
 The challenges here are designed to improve your skills in HTML, CSS, and JavaScript and take you from the beginner level to intermediate to professional.
